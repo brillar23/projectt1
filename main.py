@@ -1,8 +1,11 @@
-num1=100
-num2=200
+num1=10
+num2=20
 
 re= num1 + num2
 print(num1,'+', num2,'=', re)
 
 re= num1 - num2
+print(num1,'-', num2,'=', re)
+
+re= num1 ** num2
 print(num1,'-', num2,'=', re)
